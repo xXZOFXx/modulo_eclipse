@@ -1,0 +1,18 @@
+body{
+  background: -webkit-gradient(linear, left top, left bottom, from(purple), to(grey)) fixed;
+
+}
+
+
+.texto{
+
+text-align: center;
+color: white;
+
+}
+
+.col-md-4{
+
+margin: auto;
+
+}
